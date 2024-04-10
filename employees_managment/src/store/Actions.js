@@ -1,0 +1,10 @@
+export const SET_WORKERS="SET_WORKERS";
+export const SET_WORKER="SET_WORKER";
+export const ADD_WORKER="ADD_WORKER";
+export const ADD_ROLE_FOR_WORKER="ADD_ROLE_FOR_WORKER";
+export const EDIT_WORKER="EDIT_WORKER";
+export const EDIT_STATUS_WORKER="EDIT_STATUS_WORKER";
+export const SET_ROLE="SET_ROLE";
+export const ADD_ROLE="ADD_ROLE";
+export const EDIT_ROLE="EDIT_ROLE";
+export const DELETE_ROLE="DELETE_ROLE";
